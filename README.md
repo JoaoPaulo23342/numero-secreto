@@ -14,4 +14,4 @@
 
 # Criador do Projeto
 
- <p>João Paulo Resende</p> 
+ <p>João Paulo </p> 
